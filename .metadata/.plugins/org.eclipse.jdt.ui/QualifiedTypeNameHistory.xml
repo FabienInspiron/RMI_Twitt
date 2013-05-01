@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Interfaces.InterfacePublic"/>
+<fullyQualifiedTypeName name="Interfaces.InterfacePrivee"/>
+<fullyQualifiedTypeName name="ClassesObjectMetier.Twitt"/>
+<fullyQualifiedTypeName name="ClientTwitt.ClientTwitt"/>
+<fullyQualifiedTypeName name="ClassesObjectMetier.Personne"/>
+<fullyQualifiedTypeName name="ClassesObjectMetier.ConnexionException"/>
+<fullyQualifiedTypeName name="ObjetMetier.ConnexionException"/>
+<fullyQualifiedTypeName name="ObjetMetier.Twitt"/>
+<fullyQualifiedTypeName name="ObjetMetier.Personne"/>
+<fullyQualifiedTypeName name="Interfaces.InterfaceClient"/>
+</qualifiedTypeNameHistroy>
